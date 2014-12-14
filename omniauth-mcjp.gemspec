@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["ryo.oba.ggl@gmail.com"]
   spec.summary       = %q{OmniAuth strategy for minecraft.jp}
   spec.description   = %q{OmniAuth strategy for minecraft.jp}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/ryooob/omniauth-mcjp"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
